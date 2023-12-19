@@ -1,2 +1,2 @@
 # Simon-Game
-The Simon game is a classic electronic memory game where players follow and repeat a sequence of colored lights and tones to test and improve their memory and pattern recognition skills.
+Simon is a memory-based electronic game where players must replicate a sequence of colored lights & sounds.
